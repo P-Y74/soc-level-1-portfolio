@@ -2,8 +2,8 @@
 
 ## [1. SOC Team Internals](modules/01-soc-team-internals/)
 
-- [ ] [SOC L1 Alert Triage](modules/01-soc-team-internals/01-soc-l1-alert-triage.md)
-- [ ] [SOC L1 Alert Reporting](modules/01-soc-team-internals/02-soc-l1-alert-reporting.md)
+- [X] [SOC L1 Alert Triage](modules/01-soc-team-internals/01-soc-l1-alert-triage.md)
+- [X] [SOC L1 Alert Reporting](modules/01-soc-team-internals/02-soc-l1-alert-reporting.md)
 - [ ] [SOC Workbooks and Lookups](modules/01-soc-team-internals/)
 - [ ] [SOC Metrics and Objectives](modules/01-soc-team-internals/)
 - [ ] [Introduction to Phishing](modules/01-soc-team-internals/)
